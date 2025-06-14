@@ -1,0 +1,20 @@
+[
+    {
+        "id": "684cdfed175b9",
+        "nombre": "Gabriel",
+        "apellido": "Sanchez",
+        "cedula": "95-007-CARS",
+        "edad": 20,
+        "motivo": "Limpieza dental",
+        "fecha_hora": "2025-06-14 02:35:25"
+    },
+    {
+        "id": "684ce02837033",
+        "nombre": "juan",
+        "apellido": "soto",
+        "cedula": "sotocedula-01",
+        "edad": 27,
+        "motivo": "Tratamiento de caries",
+        "fecha_hora": "2025-06-14 02:36:24"
+    }
+]
